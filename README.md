@@ -1,1 +1,3 @@
 # greenhub
+
+## Automated news
